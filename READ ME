@@ -1,0 +1,8 @@
+-ENDPOINTS FOR BUILDWEEK
+ROLES
+-user,guest
+ORGANZIER
+-one table for dates and times
+-link table to event itself
+-link table to food items
+-link table to guests
